@@ -1,3 +1,3 @@
-## Jokes-created-through-API-with-Django#
+#### Automatic Joke Generation
 
-When we want to do a simple project in Django, we do not easily find any simple project. This is a simple and extremely fun project made by Django ( Python Web framework ).
+This is a personal project created using Django. This is a general website where users can automatically create a joke with his name.
